@@ -150,8 +150,8 @@ form input {
 
 footer {
     background-color: black;
-    position: fixed;
-    bottom:0;
+    position: absolute;
+    top: 312%;
     left: 0;
     z-index: 5;
     width: 100%;
